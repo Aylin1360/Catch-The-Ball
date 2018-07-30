@@ -1,1 +1,2 @@
-# First_AndroidStudio_Game
+# FirstAndroidStudioGame
+Basic flappybird-ish game.
