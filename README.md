@@ -3,15 +3,15 @@
 Basic flappybird-ish game.
 Purpose is the collecting items as much as you can and avaoid from the certain ones.
 
-# Deployment
+## Deployment
 Download or Clone this repo, choose your device and run it.
 
-# Built With
+## Built With
 Android Studio - Android Development IDE. 
 
-# Sounds
+## Sounds
 Played and recorded by me.
 
-# Possible Upgrades Planned
+## Possible Upgrades Planned
 * Scoreboard <br />
 * Different chracter choices.
