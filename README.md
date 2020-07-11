@@ -3,10 +3,6 @@
 Basic flappybird-ish game.
 Purpose is the collecting items as much as you can and avoid from the certain ones. Google Admob also integrated.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/34216243/87213143-7dcfc580-c32b-11ea-96fe-3c86fff60e28.gif" ></img>
-</p>
-
 ## Deployment
 Download or Clone this repo, choose your device and run it.
 
@@ -22,3 +18,7 @@ Played and recorded by me.
 ## Possible Upgrades Planned
 * Scoreboard <br />
 * Different chracter choices.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/34216243/87213143-7dcfc580-c32b-11ea-96fe-3c86fff60e28.gif" ></img>
+</p>
